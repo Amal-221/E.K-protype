@@ -16,6 +16,7 @@
                <li><a href="index.php">Møbler</a></li>
                <li><a href="index.php">Shop</a></li>
                <li><a href="index.php">Om os</a></li>
+               <li><a href="index.php">kontakt</a></li>
           </ul>
        </nav>
 <div id="content_area">
